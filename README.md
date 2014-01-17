@@ -1,5 +1,5 @@
-# One Month Rails
+# Hello Ticketboys
 
-This is the pinteresting sample application for [*One Month Rails*] (http://onemonthrails.com)
+Lets help the wizard Brandon on [*Ticketbud*] (http://ticketbud.com)
 
 by [Jack Meredith] (http://ticketbud.com)
